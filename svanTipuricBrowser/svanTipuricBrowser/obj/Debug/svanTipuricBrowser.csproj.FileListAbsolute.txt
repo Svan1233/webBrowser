@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\bin\Debug\svanTipuricBrowser.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\bin\Debug\svanTipuricBrowser.exe
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\bin\Debug\svanTipuricBrowser.pdb
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.Form1.resources
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.exe
+C:\Users\Korisnik\source\repos\svanTipuricBrowser\svanTipuricBrowser\obj\Debug\svanTipuricBrowser.pdb
